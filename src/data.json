@@ -1,6 +1,6 @@
 [
     {
-        "Image": "../public/clouds.png",
+        "Image": "/public/clouds.png",
         "Title" : "✍️ Article",
         "Main_heading" : "What if famous brands had regular fonts? Meet RegulaBrands!",
         "sub_heading" : "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
@@ -9,7 +9,7 @@
         "views": "1.4k views"
     },
     {
-        "Image": "../public/window.jpg",
+        "Image": "./public/window.jpg",
         "Title" : "🔬️ Education",
         "Main_heading" : "Tax Benefits for Investment under National Pension Scheme launched by Government",
         "sub_heading" : "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
@@ -18,7 +18,7 @@
         "views": "1.4k views"
     },
     {
-        "Image": "../public/car.png",
+        "Image": "./public/car.png",
         "Title" : "🗓️ Meetup",
         "Main_heading" : "Finance & Investment Elite Social Mixer @Lujiazui",
         "sub_heading" : "",
