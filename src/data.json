@@ -1,0 +1,44 @@
+[
+    {
+        "Image": "../public/clouds.png",
+        "Title" : "✍️ Article",
+        "Main_heading" : "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "sub_heading" : "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "persion_image":"../public/person.jpeg",
+        "Persion_name":"Sarthak Kamra",
+        "views": "1.4k views"
+    },
+    {
+        "Image": "../public/window.jpg",
+        "Title" : "🔬️ Education",
+        "Main_heading" : "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "sub_heading" : "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "persion_image":"../public/person.jpeg",
+        "Persion_name":"Sarah West",
+        "views": "1.4k views"
+    },
+    {
+        "Image": "../public/car.png",
+        "Title" : "🗓️ Meetup",
+        "Main_heading" : "Finance & Investment Elite Social Mixer @Lujiazui",
+        "sub_heading" : "",
+        "Date":"Fri, 12 Oct, 2018",
+        "Place":"Ahmedabad, India",
+        "website": true,
+        "persion_image":"../public/person.jpeg",
+        "Persion_name":"Ronal Jones",
+        "views": "1.4k views"
+    },
+    {
+        "Image": "",
+        "Title" : "💼️ Job",
+        "Main_heading" : "Software Developer",
+        "sub_heading" : "",
+        "Date":"Innovaccer Analytics Private Ltd.",
+        "Place":"Noida, India",
+        "website": "Apply on Timesjobs",
+        "persion_image":"../public/person.jpeg",
+        "Persion_name":"Joseph Gray",
+        "views": "1.4k views"
+    }
+]
