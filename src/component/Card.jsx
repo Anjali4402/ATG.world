@@ -1,5 +1,6 @@
 import React from 'react'
-import image1 from '../Images/HotWeather.jpg'
+import image1 from '../Images/HotWeather.jpg';
+
 const Card = () => {
     return (
         <div className="card col-lg-4 col-sm-12" style= {{width: '692pxs'}} >
