@@ -1,7 +1,7 @@
 import React from 'react';
 import data from '../data.json';
 import df from './../../public/clouds.png'
-import one from '../public/clouds.png'
+// import one from '../public/clouds.png'/
 import img2 from '../Images/window.jpg'
 import img3 from '../Images/car.png';
 
@@ -19,8 +19,8 @@ const Posts = () => {
                                     // (val.Image === 'one')?
                                     // <img src= {'public/clouds.png'} style={{height: '220px'}}  className="card-img-top" alt="..."/>
                                     // : 
-                                    (val.Image === 'one') ?
-                                    <img src= {one} style={{height: '220px'}}  className="card-img-top" alt="..."/>
+                                    (val.Image) ?
+                                    <img src= {val.Image} style={{height: '220px'}}  className="card-img-top" alt="..."/>
                                     // :
                                     // (val.Image === 'three') ?
                                     // <img src= '/public/clouds.png' style={{height: '220px'}}  className="card-img-top" alt="..."/>
