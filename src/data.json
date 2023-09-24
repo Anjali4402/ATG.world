@@ -1,6 +1,6 @@
 [
     {
-        "Image": "../../public/window.jpg",
+        "Image": "../../public/clouds.png",
         "Title" : "✍️ Article",
         "Main_heading" : "What if famous brands had regular fonts? Meet RegulaBrands!",
         "sub_heading" : "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
@@ -30,7 +30,7 @@
         "views": "1.4k views"
     },
     {
-        "Image": "./public/car.png",
+        "Image": "",
         "Title" : "💼️ Job",
         "Main_heading" : "Software Developer",
         "sub_heading" : "",

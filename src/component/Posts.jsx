@@ -1,5 +1,7 @@
 import React from 'react';
 import data from '../data.json';
+import image from '../../public/clouds.png';
+import persionImg from '../../public/person.jpeg'
 
 const Posts = () => {
 
@@ -13,7 +15,7 @@ const Posts = () => {
             
                                 {
                                     (val.Image) ?
-                                    <img src= {val.Image} style={{height: '220px'}}  className="card-img-top" alt="..."/>
+                                    <img src= {image} style={{height: '220px'}}  className="card-img-top" alt="..."/>
                                     : null
                                 }
                                 <div className="card-body">
@@ -87,7 +89,7 @@ const Posts = () => {
                                     <div className="col-2">
                                         {
                                             (val.persion_image)?
-                                                        <img className='rounded rounded-pill' src={val.persion_image} style={{width:'50px', height:'50px'}} alt="" />
+                                                        <img className='rounded rounded-pill' src={persionImg} style={{width:'50px', height:'50px'}} alt="" />
                                             : null
                                         }
                                     </div>
