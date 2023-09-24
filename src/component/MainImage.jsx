@@ -1,5 +1,5 @@
 import React from 'react'
-import image1 from '../Images/BackgroundImg.jpg'
+import image1 from '../../public/BackgroundImg.jpg'
 
 const MainImage = () => {
     return (
@@ -17,26 +17,7 @@ const MainImage = () => {
                 <h2>Computer Engineering</h2>
                 <p>142,765 Computer Engineers follow this</p>
             </div>
-            {/* <h1 className="d-block d-sm-none">hello wodl</h1> */}
-            {/* <h1 className="d-none d-sm-block d-md-none">hello world</h1> */}
         </div>
-        // position-absolute top-0 start-0
-        // <div className='card bg-primary'>
-        //     <img src={image1} className="card-imgs"  style={{width: '100%' , height:'440px'}}/>
-        //     <div className="card-img-overlay">
-        //         <h5 className="card-title">Card title</h5>
-        //         <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        //         <p className="card-text"><small>Last updated 3 mins ago</small></p>
-        //     </div>
-        // </div>
-        // <div className="card text-bg-dark" style={{width:'1440px', height:"440px"}}>
-        //     <img src={image1} className="card-img"  style={{width: '100%' , height:'100%'}}/>
-        //     <div className="card-img-overlay">
-        //         <h5 className="card-title">Card title</h5>
-        //         <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        //         <p className="card-text"><small>Last updated 3 mins ago</small></p>
-        //     </div>
-        // </div>
     )
 }
 

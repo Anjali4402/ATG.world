@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../Images/atgLogo.png'
+import image from '../../public/atgLogo.png'
 
 
 const Navbar = () => {
@@ -45,7 +45,7 @@ const Navbar = () => {
                     <div className='d-flex gap-2 justify-content-end'>
                     <div className="rounded bg-secondary custom-dimens"></div>
                     <div className="rounded-circle bg-secondary custom-dimens"></div>
-                    <div className="rounded custom_triangle" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></div>
+                    <div className="rounded custom_triangle" style={{cursor:'pointer'}} data-bs-toggle="modal" data-bs-target="#staticBackdrop"></div>
                     </div>
             </div>
     </div>       

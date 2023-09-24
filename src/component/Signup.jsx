@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import image from '../Images/SignUpImage.jpg'
+import image from '../../public/SignUpImage.jpg'
 
 const Signup = ({currentShow}) => {
   // what show sign Up or Sign In
